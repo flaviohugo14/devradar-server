@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="DevRadar" src=".github/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="DevRadar" src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.svg" width="250px" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.png" width="100%">
 </p>
 
 ## Tecnologias
