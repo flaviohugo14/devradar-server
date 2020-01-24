@@ -2,13 +2,6 @@
     <img alt="DevRadar" title="DevRadar" src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.svg" width="250px" />
 </h1>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 <br>
 
 <p align="center">
